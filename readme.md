@@ -24,8 +24,9 @@ Le dossier de ce test sera composé de cette manière :
 * Un code **propre** avec une belle **indentation** pour plus de lisibilité.
 * Utilisation d'un color picker pour les couleurs : ex. **Colorpick eyedropper** sous Chrome.
 * Utilisation des unités suivantes :
-    * **rem** : *padding, margin, text ...*  
-    * **vh, vw** : *%, px ...*  
+    * ```rem``` : *padding, margin, text, size, px ...*  
+    * ```vh, vw``` : *%, px ...*  
+    * **Bon parfois, vous n'allez pas pouvoir faire autrement, le ```%``` sera permis :)**
     
 * Utilisation de balise ```<img>``` et non de l'attribut ```background-image```
 * Utilisation de "CSS GRID" : *Tutos sympas pour bien démarrrer*
