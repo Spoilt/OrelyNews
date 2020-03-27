@@ -26,6 +26,10 @@ section img {
     width: 100%;
 }
 
+article {
+    padding-bottom: 0.5rem;
+}
+
 h1 {
     text-transform: uppercase;
     color: #3293ea;
