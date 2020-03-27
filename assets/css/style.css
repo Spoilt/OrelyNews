@@ -3,10 +3,7 @@ body {
     margin: auto;
     display: flex;
     flex-direction: column;
-}
-
-header {
-    width: 100%;
+    font-family: sans-serif;
 }
 
 header img {
@@ -27,4 +24,53 @@ section {
 
 section img {
     width: 100%;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #3293ea;
+    font-weight: lighter;
+    margin: 0.5rem 0 0.4rem 0;
+}
+h2 {
+    text-transform: uppercase;
+    margin: 0.4rem 0 0.2rem 0;
+}
+
+h3 {
+    font-weight: bolder;
+    font-size: small;
+}
+
+p {
+    margin: 0.5rem 0;
+}
+
+.head-article_img {
+    position: relative;
+}
+
+section article:not(:last-of-type) {
+    border-bottom: solid 1px lightgray;
+}
+
+.category {
+    background-color: #3293ea;
+    padding: 0.2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    font-size: small;
+    display: inline-block;
+}
+
+.red {
+    background-color: #be1f51;
+}
+
+.head-article_img .category {
+    display: block !important;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0.2rem;
 }
