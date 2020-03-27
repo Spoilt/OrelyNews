@@ -34,7 +34,7 @@ Le dossier de ce test sera composé de cette manière :
     * https://css-tricks.com/snippets/css/complete-guide-grid/
 * Partir d'une GRID de **12 colonnes** et de **2 rangées**.  
 
-![grid](img/grid2.PNG "grid")  
+![grid](img/grid3.PNG "grid")  
 
 ## A VOUS DE CODER !!
 > L'agence **Orély** compte sur vous et promis, on vous embauche !
