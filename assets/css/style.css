@@ -1,0 +1,30 @@
+body {
+    width: 60vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 100%;
+}
+
+header img {
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+section {
+    flex-basis: 19vw;
+    flex-grow: 0;
+    flex-shrink: 1;
+}
+
+section img {
+    width: 100%;
+}
